@@ -12,7 +12,7 @@ const projects = [
     description: 'PerfectPunch is an AI-driven boxing training system that leverages computer vision and machine learning to analyze a boxers punching form, speed, accuracy, and injury risk in real-time. It aims to revolutionize boxing training by providing data-driven insights that enhance performance and prevent injuries, all without the need for wearables.',
     skills: ['Python', 'Django', 'OpenCV', 'MediaPipe', 'PyTorch', 'Taipy', 'NumPy', 'Pandas', 'Matplotlib', 'HTML5', 'CSS3', 'JavaScript'],
     images: [
-      'portfolio/perfectpunch.gif'
+      'portfolio/portfolio/public/perfectpunch.gif'
     ],
     github: 'https://github.com/Archerman1/PerfectPunch',
     demo: 'https://devpost.com/software/perfectpunch'
@@ -34,7 +34,7 @@ const projects = [
   description: 'ClubBuddy is a club management app designed for students to join clubs at their school or university, manage club assignments, and track their participation. Advisors have a separate UI to manage student rosters, create meetings, and monitor club activities. Developed in Swift, it uses Firebase for authentication and MySQL for data storage.',
   skills: ['Swift', 'Firebase', 'MySQL', 'Xcode', 'UI/UX Design'],
   images: [
-    '/clubbuddy.gif'
+    'portfolio/portfolio/public/clubbuddy.gif'
   ],
   github: 'https://github.com/agshruti12/BRCT1?tab=readme-ov-file',
   demo: 'https://www.youtube.com/watch?v=zLklrt5ntvo'
@@ -75,7 +75,7 @@ const experiences = [
     company: 'CarMax 🚗',
     timeline: 'Summer 2025',
     description: 'Incoming...',
-    image: '/carmax_gif.gif'
+    image: 'portfolio/portfolio/public/carmax_gif.gif'
   }
 ];
 
