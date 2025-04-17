@@ -12,7 +12,7 @@ const projects = [
     description: 'PerfectPunch is an AI-driven boxing training system that leverages computer vision and machine learning to analyze a boxers punching form, speed, accuracy, and injury risk in real-time. It aims to revolutionize boxing training by providing data-driven insights that enhance performance and prevent injuries, all without the need for wearables.',
     skills: ['Python', 'Django', 'OpenCV', 'MediaPipe', 'PyTorch', 'Taipy', 'NumPy', 'Pandas', 'Matplotlib', 'HTML5', 'CSS3', 'JavaScript'],
     images: [
-      '/perfectpunch.gif'
+      'portfolio/perfectpunch.gif'
     ],
     github: 'https://github.com/Archerman1/PerfectPunch',
     demo: 'https://devpost.com/software/perfectpunch'
