@@ -485,7 +485,7 @@ function App() {
             transition={{ duration: 0.5 }}
             viewport={{ once: true }}
           >
-            Get in touch 💌
+            get in touch 💌
           </motion.h2>
           <div className="contact-content">
             <motion.div
