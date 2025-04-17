@@ -23,7 +23,7 @@ const projects = [
   description: 'SafeWay is a navigation app that prioritizes safety by providing routes that avoid high-crime areas, poorly lit streets, and damaged roads. It uses data from government websites to calculate optimal routes based on user preferences for safety, walkability, lighting, and efficiency.',
   skills: ['Python', 'Flask', 'MongoDB', 'PyMongo', 'HTML5', 'CSS3', 'JavaScript', 'Mapbox API', 'Docker', 'Terraform'],
   images: [
-    '/safeway.gif'
+    'safeway.gif'
   ],
   github: 'https://github.com/CalebBunch/hackGT11',
   demo: 'https://devpost.com/software/saferoute-2iyzml'
@@ -49,7 +49,7 @@ const allSkills = {
 };
 
 // Add these images to your public folder
-const educationImage = '/education.png';
+const educationImage = 'education.png';
 
 // Add this after your projects data
 const experiences = [
@@ -59,7 +59,7 @@ const experiences = [
     company: 'LCKR 🔐',
     timeline: 'Summer 2023',
     description: 'Developed e-marketplace where users can rent out their items and rent other items using smart lock powered by Arduino.',
-    image: '/lckr.gif'
+    image: 'lckr.gif'
   },
   {
     id: 2,
@@ -682,7 +682,7 @@ function App() {
               <button className="close-button" onClick={closeResumeModal}>×</button>
               <div className="resume-preview">
                 <iframe 
-                  src="/resume.pdf" 
+                  src="resume.pdf" 
                   title="Resume Preview"
                   width="100%"
                   height="100%"
